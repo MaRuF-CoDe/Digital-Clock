@@ -1,2 +1,2 @@
-# Digital-Clock-Javascript
-# Created A digital clock with Javascript
+# Digital-Clock
+# Created A digital clock.
